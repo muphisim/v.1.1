@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1072.0045"
+   height="500.53571"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="abstract.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3942"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="876.37151"
+     inkscape:cy="228.49202"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4580"
+     showgrid="false"
+     inkscape:window-width="1861"
+     inkscape:window-height="1056"
+     inkscape:window-x="3259"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(216,-5.4955364)">
+    <g
+       id="g3909"
+       transform="translate(-5.7142857,-8.5714286)">
+      <g
+         id="g4580">
+        <g
+           transform="translate(-52.857143,-25.714285)"
+           id="g3920">
+          <rect
+             style="fill:none;stroke:#000000;stroke-width:1.28639781;stroke-opacity:1"
+             id="rect3004"
+             width="479.28333"
+             height="218.90799"
+             x="137.70853"
+             y="40.434052"
+             ry="0.37232551" />
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+             x="323.75388"
+             y="83.625893"
+             id="text3774"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3776"
+               x="323.75388"
+               y="83.625893">class A</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+             x="161.93483"
+             y="130.31325"
+             id="text3774-1"
+             sodipodi:linespacing="125%"><tspan
+               sodipodi:role="line"
+               id="tspan3776-6"
+               x="161.93483"
+               y="130.31325"
+               style="font-size:28px">public:</tspan><tspan
+               sodipodi:role="line"
+               x="161.93483"
+               y="165.31325"
+               style="font-size:28px"
+               id="tspan3801">      virtual void abstractFunction1()=0;</tspan><tspan
+               sodipodi:role="line"
+               x="161.93483"
+               y="200.31325"
+               style="font-size:28px"
+               id="tspan3803">      virtual void abstractFunction2()=0;</tspan><tspan
+               sodipodi:role="line"
+               x="161.93483"
+               y="235.31325"
+               style="font-size:28px"
+               id="tspan3805">      void function()=0;</tspan><tspan
+               sodipodi:role="line"
+               x="161.93483"
+               y="270.31323"
+               style="font-size:28px"
+               id="tspan3799" /></text>
+        </g>
+        <rect
+           transform="translate(5.7142857,8.5714286)"
+           ry="0.30329037"
+           y="327.13129"
+           x="-215.41856"
+           height="178.31892"
+           width="479.40854"
+           id="rect3004-7"
+           style="fill:none;stroke:#000000;stroke-width:1.16118097;stroke-opacity:1" />
+        <text
+           transform="translate(5.7142857,8.5714286)"
+           sodipodi:linespacing="125%"
+           id="text3774-9"
+           y="370.38574"
+           x="-29.310596"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           xml:space="preserve"><tspan
+             y="370.38574"
+             x="-29.310596"
+             id="tspan3776-67"
+             sodipodi:role="line">class B</tspan></text>
+        <text
+           transform="translate(5.7142857,8.5714286)"
+           sodipodi:linespacing="125%"
+           id="text3774-1-6"
+           y="417.07309"
+           x="-191.12964"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           xml:space="preserve"><tspan
+             style="font-size:28px"
+             y="417.07309"
+             x="-191.12964"
+             id="tspan3776-6-0"
+             sodipodi:role="line">public:</tspan><tspan
+             id="tspan3801-2"
+             style="font-size:28px"
+             y="452.07309"
+             x="-191.12964"
+             sodipodi:role="line">      virtual void abstractFunction1();</tspan><tspan
+             id="tspan3803-8"
+             style="font-size:28px"
+             y="487.07309"
+             x="-191.12964"
+             sodipodi:role="line">      virtual void abstractFunction2();</tspan><tspan
+             id="tspan3805-7"
+             style="font-size:28px"
+             y="522.07312"
+             x="-191.12964"
+             sodipodi:role="line" /><tspan
+             id="tspan3799-7"
+             style="font-size:28px"
+             y="557.07312"
+             x="-191.12964"
+             sodipodi:role="line" /></text>
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.16118097;stroke-opacity:1"
+           id="rect3004-7-4"
+           width="479.40854"
+           height="178.31892"
+           x="381.7243"
+           y="326.05981"
+           ry="0.30329037" />
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           x="567.83228"
+           y="369.31427"
+           id="text3774-9-4"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3776-67-8"
+             x="567.83228"
+             y="369.31427">class C</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L"
+           x="406.01324"
+           y="416.00165"
+           id="text3774-1-6-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3776-6-0-5"
+             x="406.01324"
+             y="416.00165"
+             style="font-size:28px">public:</tspan><tspan
+             sodipodi:role="line"
+             x="406.01324"
+             y="451.00165"
+             style="font-size:28px"
+             id="tspan3801-2-0">      virtual void abstractFunction1();</tspan><tspan
+             sodipodi:role="line"
+             x="406.01324"
+             y="486.00165"
+             style="font-size:28px"
+             id="tspan3803-8-5">      virtual void abstractFunction2();</tspan><tspan
+             sodipodi:role="line"
+             x="406.01324"
+             y="521.00165"
+             style="font-size:28px"
+             id="tspan3805-7-3" /><tspan
+             sodipodi:role="line"
+             x="406.01324"
+             y="556.00165"
+             style="font-size:28px"
+             id="tspan3799-7-7" /></text>
+        <path
+           sodipodi:nodetypes="cc"
+           transform="translate(5.7142857,8.5714286)"
+           inkscape:connector-curvature="0"
+           id="path3931"
+           d="M 322.84482,226.99453 35.714286,325.21933"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+        <path
+           sodipodi:nodetypes="cc"
+           transform="translate(5.7142857,8.5714286)"
+           inkscape:connector-curvature="0"
+           id="path3933"
+           d="M 327.43002,224.62759 628.57143,316.6479"
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      </g>
+    </g>
+  </g>
+</svg>

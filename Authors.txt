@@ -1,0 +1,71 @@
+List of contributors (C) 2022
+
+General Contribution:
+
+Antoine Jerusalem
+Van Dung Nguyen
+
+Specific (acknowledged) contributions:
+
+Amir Abdollahi:
+
+solvers.cpp, solvers.h, solverExplicit.cpp, solverExplicit.h, solverImplicit.cpp, solverImplicit.h, solverImplicitStatic.cpp
+solverImplicitStatic.h.
+
+Yanis Ammouche: 
+
+stochasticHyperElasticStVenantKirchhoff.cpp, stochasticHyperElasticStVenantKirchhoff.h, hyperElasticStVenantKirchhoffThermoMechanics.cpp, hyperElasticStVenantKirchhoffThermoMechanics.h, temperature.cpp, temperature.h, temperatureCoupling.cpp, temperatureCoupling.h, extraDof.cpp, extraDof.h, Thermomechanics.cpp, Thermomechanics.h, Heat.cpp, Heat.h, boundaryConditions.cpp, boundaryConditions.h.
+
+Julian Andres Garcia Grajales:
+
+main.cpp, isoMorphogeneticGrowth.cpp, isoMorphogeneticGrowth.h, viscoElasticGrowth.cpp, viscoElasticGrowth.h, constitutiveList.h, areaGrowth.cpp, areaGrowth.h, hyperElasticStVenantKirchhoff.cpp, hyperElasticStVenantKirchhoff.h, viscoMechContractAxialGrowth.cpp, viscoMechContractAxialGrowth.h, viscoMechAxialGrowth.cpp, viscoMechAxialGrowth.h, viscoElastic.cpp, viscoElastic.h, hyperElasticNeoHookean.cpp, hyperElasticNeoHookean.h, fiberGrowth.cpp, fiberGrowth.h, volMechDrivenGrowth.cpp, volMechDrivenGrowth.h, 
+volMechDrivenGrowth.cpp, volMechDrivenGrowth.h, boundaryConditions.cpp, boundaryConditions.h,  solverExplicit.cpp, solverExplicit.h, solverImplicit.cpp, solverImplicit.h, solverImplicitStatic.cpp, solverImplicitStatic.h,
+solvers.cpp, solvers.h, classNeumannBCs.cpp, classNeumannBCs.h, solversList.h, configuration.cpp, configuration.h, init.cpp, init.h, 
+output.cpp, output.h, commandLine.cpp, commandLine.h, geometry.cpp.
+, geometry.h, maths.cpp, maths.h, shapeFunctions.cpp, inputFile.cpp, inputFile.h, classQuadTriangles.cpp, classQuadTriangles.h, classSpatialPoint.cpp, classSpatialPoint.h, shapeFunctions.cpp, shapeFunctions.h, classQuadTetrahedra.cpp, classQuadTetrahedra.h, classElements.cpp, classElements.h, elementsList.h, classLinearTetrahedra.cpp, classLinearTetrahedra.h, classLinearTriangles.cpp, classLinearTriangles.h, classNodes.cpp, classNodes.h, classGPs.cpp, classGPs.h, supportDomains.cpp, supportDomains.h, GPsDistribution.cpp, GPsDistribution.h
+
+Daniel Barba Cancho:
+main.cpp, solverExplicit.cpp, solverExplicit.h, solverImplicit.h, solverImplicit.cpp, solverImplicitStatic.cpp, solverExplicit.h, 
+solvers.cpp, solvers.h, commandLine.cpp, commandLine.h, inputFile.cpp, inputFile.h.
+
+Sylvin Bielle:
+
+main.cpp, extraDof.cpp, extraDof.h, FHN.cpp, FHN.h, solverExplicit.cpp, solverExplicit.h, solverImplicit.h, solverImplicit.cpp, solverImplicitStatic.cpp, solverExplicit.h, 
+solvers.cpp, solvers.h.
+
+Daniel Garcia-Gonzalez:
+
+main.cpp, solverExplicit.cpp, solverExplicit.h, solverImplicit.cpp, solverImplicit.h, solverImplicitStatic.cpp, solverImplicitStatic.h,
+solvers.cpp, solvers.h, commandLine.cpp, commandLine.h, inputFile.cpp, inputFile.h, classSpatialPoint.cpp, classSpatialPoint.h.
+
+Sara Garzon Hernandez:
+
+3DprintingThermoelasticityStVenantKirchhoff.cpp, 3DprintingThermoelasticityStVenantKirchhoff.h, hyperElasticStVenantKirchhoffThermoMechanics.cpp, hyperElasticStVenantKirchhoffThermoMechanics.h, temperature.cpp, temperature.h, extraDof.cpp, extraDof.h, Thermomechanics.cpp, Thermomechanics.h, Heat.cpp, Heat.h, boundaryConditions.cpp, boundaryConditions.h.
+
+Khariton Gorbunov:
+
+main.cpp,classQuadTetrahedra.cpp, classQuadTetrahedra.h, classQuadTriangles.cpp, classQuadTriangles.h, classQuadLine.cpp, classQuadLine.h.
+
+Antoine Jerusalem:
+
+main.cpp, viscoMechContractAxialGrowth.cpp, viscoMechContractAxialGrowth.h, viscoMechAxialGrowth.cpp, viscoMechAxialGrowth.h, viscoElastic.cpp, viscoElastic.h, viscoElasticGrowth.cpp, viscoElasticGrowth.h.
+
+Dongli Li:
+
+main.cpp, hyperElasticStVenantKirchhoff.cpp, hyperElasticStVenantKirchhoff.h, viscoMechContractAxialGrowth.cpp, viscoMechContractAxialGrowth.h, viscoMechAxialGrowth.cpp, viscoMechAxialGrowth.cpp
+viscoElastic.cpp, viscoElastic.h, FHN.cpp, FHN.h, viscoElasticGrowth.cpp, viscoElasticGrowth.h, boundaryConditions.cpp
+solverExplicit.cpp, solverExplicit.h, solverImplicit.cpp, solverImplicit.h, solverImplicitStatic.cpp
+solverImplicitStatic.h, Electrophysiology.cpp, Electrophysiology.h, commandLine.cpp, commandLine.h, inputFile.cpp, inputFile.h, output.cpp, output.h, classQuadTetrahedra.cpp, classQuadTetrahedra.h, classLinearLine.cpp, classLinearLine.h, classLinearTriangles.cpp, classLinearTriangles.h, classQuadTriangles.cpp, classQuadTriangles.h, classLinearTetrahedra.cpp, classLinearTetrahedra.h, classQuadLine.cpp,
+classQuadLine.h, classElements.cpp, classElements.h, GPsDistribution.cpp, GPsDistribution.h, geometry.cpp.
+, geometry.h, maths.cpp, maths.h.
+
+Other contributions:
+
+Charlotte Kirchhelle
+Alain Goriely
+
+
+
+
+
+
